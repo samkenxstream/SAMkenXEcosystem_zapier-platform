@@ -1,6 +1,8 @@
-# Zapier Platform
+# SAMkenXEcosystem 'Powerful Multiplex Universe X Singularity'
+     
+      An Integration to Zapier Platform.A journey of searching for facts,complex and fairness of rights universally.Visions to provide real service fir deserving but uncapable to use advance tech.This development is not for business intentions.The actual builds  Policy goal is prohibiting any interacted on main raw data to used for business purposes if violation takes place sanctions will auto generates into violators.It pushes a Policy to give considerations to financial uncapable to avail services individuals but have verified potentials and attitude.The project mission is build a true OpenSourCE TEChnology.
 
-[![CI](https://github.com/zapier/zapier-platform/actions/workflows/ci.yaml/badge.svg)](https://github.com/zapier/zapier-platform/actions/workflows/ci.yaml)
+[![CI](https://github.com/samkenxstream/samkenx-ecosystem_zapier-platform/actions/workflows/ci.yaml/badge.svg)](https://github.com/samkenxstream/samkenx-ecosystem_zapier-platform/actions/workflows/ci.yaml)
 
 This is the main monorepo for all public code that powers the Zapier Platform Experience.
 
